@@ -9,7 +9,14 @@ Cuckoo Hashing Algorithm Visualization
 Run the program from your IDE and black screen will be appear. In the terminal you must enter table size and table number. After you entered inputs tables will be drawn and screnn will be meaningful (Cuckoo hashing program). You will see tables and buttons (Insert, delete, search, exit) and you must enter the number in the white textbox and click the buttons. After each insertion load factor and collision counter printed in the terminal.
 Important Note: After each operation you must delete the number in the textbox otherwise it takes still written number. 
  
+ 
+![image](https://github.com/hakansndkc5/cuckoo_hashing/assets/93510323/1a04032c-bb56-421f-b747-3b6db4ac1549)
+
 Pygame Window
+
+
+
+![image](https://github.com/hakansndkc5/cuckoo_hashing/assets/93510323/a08fabd4-9778-4754-b7da-6e04bafb9fc1)
 
 
 2-	Hash Functions: 
